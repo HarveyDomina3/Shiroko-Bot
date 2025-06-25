@@ -165,11 +165,11 @@ chat.autoRechazar = false
 if (!('autoresponder' in chat))
 chat.autoresponder = false
 if (!('detect' in chat))
-chat.detect = true
+chat.detect = false
 if (!('economy' in chat))
-chat.economy = true
+chat.economy = false
 if (!('gacha' in chat))
-chat.gacha = true
+chat.gacha = false
 if (!('antiBot' in chat))    
 chat.antiBot = false
 if (!('antiBot2' in chat))
