@@ -36,20 +36,20 @@ global.prems = []
 global.libreria = 'Baileys'
 global.baileys = 'V 6.7.16' 
 global.vs = '1.0.0'
-global.nameqr = 'Shiroko-bot'
-global.namebot = '✿◟Shiroko-Bσƚ◞✿'
+global.nameqr = '𝐇𝐚𝐫𝐯𝐱_𝐏𝐫𝐢𝐯𝐚𝐭𝐞'
+global.namebot = '✿◟𝐇𝐚𝐫𝐯𝐱_𝐏𝐫𝐢𝐯𝐚𝐭𝐞◞✿'
 global.sessions = 'Sessions'
 global.jadi = 'JadiBots' 
 global.shirokoJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '⪛✰ Shiroko-Bot ✰⪜'
-global.botname = 'Shiroko-bot'
+global.packname = '⪛✰ 𝐇𝐚𝐫𝐯𝐱_𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ✰⪜'
+global.botname = '𝐇𝐚𝐫𝐯𝐱_𝐏𝐫𝐢𝐯𝐚𝐭𝐞'
 global.wm = 'ৎ୭࠭͢𝐃𝐞𝐬𝐭𝐢𝐧𝐲-𝐁𝐨𝐭ⷭ𓆪͟͞ '
 global.author = 'Made By https_(S2)'
 global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ https_(S2)'
-global.textbot = 'Shiroko-bot • Powered By https_(S2)'
+global.textbot = '𝐇𝐚𝐫𝐯𝐱_𝐏𝐫𝐢𝐯𝐚𝐭𝐞 • Powered By https_(S2)'
 global.etiqueta = 'https_(S2)'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
